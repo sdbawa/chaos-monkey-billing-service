@@ -3,6 +3,8 @@
 This projects helps demonstrate the chaos monkey for Spring Boot/Java apps developed in micro-services style.
 This is second of the 2 services BillingService to demo the SpringBoot Chaos Monkey as per the following design.
 
+Order-Service makes a HTTP call to billing-service using  HTTP client.
+
 image::image-2021-09-21-17-33-13-573.png[]
 
 

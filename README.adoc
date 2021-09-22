@@ -11,7 +11,7 @@ Java
 SpringBoot 
 ----
 
-The code for billing-service in this figure can be found at : https://github.com/sdbawa/chaos-monkey-order-service
+The code for order-service in this figure can be found at : https://github.com/sdbawa/chaos-monkey-order-service
 
 == What you'll build
 You'll build Spring Boot app in Java, Spring Boot, and H2 DB that spins the following 2 services. 

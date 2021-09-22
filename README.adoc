@@ -18,6 +18,11 @@ You'll build Spring Boot app in Java, Spring Boot, and H2 DB that spins the foll
 
 ----
 POST http://localhost:8081/billing-svc/process-billing-for-order
+
+{
+    "orderId":1,
+    "orderDetails": "just a new order"
+}
 ----
 
 

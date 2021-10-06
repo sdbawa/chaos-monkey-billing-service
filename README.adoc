@@ -8,6 +8,8 @@ Order-Service makes a HTTP call to billing-service using  HTTP client.
 image::image-2021-09-21-17-33-13-573.png[]
 
 
+Please read more here : https://bawa-simar.medium.com/developing-resilient-springboot-jvm-applications-with-chaos-engineering-applications-embracing-5ee063e7a119
+
 ----
 Java 
 SpringBoot 
